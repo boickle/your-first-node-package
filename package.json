@@ -1,0 +1,19 @@
+{
+  "name": "your-first-node-package",
+  "version": "1.0.0",
+  "description": "Testing API usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boickle/your-first-node-package.git"
+  },
+  "author": "Brian Oickle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boickle/your-first-node-package/issues"
+  },
+  "homepage": "https://github.com/boickle/your-first-node-package#readme"
+}
